@@ -5,6 +5,7 @@ This is a Python implementation of a supermarket checkout process that calculate
 ## Setup
 
 1. Clone the repository:
+
     git clone https://github.com/rajeev1234/setupmyhr.git
 
     cd SETUPMYHR
